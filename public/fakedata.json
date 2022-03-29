@@ -1,0 +1,41 @@
+[
+    {   "id":1,
+        "name":"Full Stack Web Development",
+        "price":5500,
+        "offer":4500,
+        "image":"https://teammeta.eu/wp-content/uploads/2020/07/developer.jpg",
+        "description":"You can learn everything needed for full stack development"
+    },
+    {
+      "id": 2,
+      "name": "Mobile App Development",
+      "price": 6500,
+      "offer": 5000,
+      "image": "https://cdn.dribbble.com/users/1615584/screenshots/15571949/media/7e95f0fddb7957220033569815613b10.jpg?compress=1&resize=400x300&vertical=top",
+      "description": "You can learn everything needed for Mobile App development"
+    },
+    {
+      "id": 3,
+      "name": "Flutter Crash Course",
+      "price": 3500,
+      "offer": 3000,
+      "image": "https://miro.medium.com/max/1200/1*qUwhyiEX0ubr7ezTj85ZGQ.jpeg",
+      "description": "Build your own flutter app development And get a Job"
+    },
+    {
+      "id": 4,
+      "name": "Javscript Crash Course",
+      "price": 2500,
+      "offer": 2000,
+      "image": "https://i.ytimg.com/vi/hdI2bqOjy3c/maxresdefault.jpg",
+      "description": "Learn everything needed for javascript. Absulate beginner to advance learning path"
+    },
+    {
+      "id": 5,
+      "name": "Algorith Carsh Course",
+      "price": 7500,
+      "offer": 6000,
+      "image": "https://i.ytimg.com/vi/jQqQpPMYPXs/maxresdefault.jpg",
+      "description": "Algorithm & data Structures Full Crash course In 4-5 hours"
+    }
+]

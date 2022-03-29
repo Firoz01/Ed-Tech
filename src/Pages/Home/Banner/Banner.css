@@ -1,0 +1,10 @@
+.banner-btn {
+  color: white;
+}
+.banner-btn:hover {
+  background-color: black;
+  color: white;
+}
+.banner-img{
+  height: 500px;
+}
